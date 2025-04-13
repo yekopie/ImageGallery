@@ -1,5 +1,5 @@
 # 🖼️ Basit Resim Galerisi
-Sayfamızda toplamda 33 adet rastgele olarak getirilmişresim bulunmaktadır
+Sayfamızda toplamda 33 adet rastgele olarak getirilmiş resimler bulunmaktadır
 Herhangi bir görsele tıkladığında, o görsel büyük haliyle modal içinde açılıyor.
 
 Basit, kullanışlı ve öğretici 👌
