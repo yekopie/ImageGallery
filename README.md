@@ -27,7 +27,7 @@ Basit, kullanışlı ve öğretici 👌
 ## Kurulum
 Bu projeyi yerel ortamınızda çalıştırmak için:
 
-   git clone https://https://github.com/yekopie/Cv-creator
+   git clone https://github.com/yekopie/ImageGallery
 
 projeyi klonlayıp Html'i açmanız yeterlidir.
 
