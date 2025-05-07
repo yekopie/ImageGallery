@@ -14,7 +14,7 @@ for (let row = 1; row <= 6; row++) {
         const img = document.createElement("img");
         img.src = `https://picsum.photos/900/900?random=${num++}`;
         
-        // 👇 Her resme tıklanınca modal açılır ve resim gösterilir
+        // Her resme tıklanınca modal açılır ve resim gösterilir
         img.addEventListener("click", () => {
             const modalImg = document.getElementById("modalImage");
             modalImg.src = img.src;
